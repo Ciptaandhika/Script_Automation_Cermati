@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Production</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Link untuk masuk Gabung Cermati</description>
+      <initValue>'https://www.cermati.com/gabung '</initValue>
+      <name>urlGabungCermati</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>set text nama email</description>
+      <initValue>'ciptaandhika21@gmail.com'</initValue>
+      <name>Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password Gabung Cermati</description>
+      <initValue>'Ciptaca7'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>nama depan user</description>
+      <initValue>'Cipta'</initValue>
+      <name>Nama_Depan</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nama belakang User</description>
+      <initValue>'Andhika'</initValue>
+      <name>Nama_Belakang</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nomor Telephone User</description>
+      <initValue>'081517097359'</initValue>
+      <name>Nomor_telephone</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>user pilih kota</description>
+      <initValue>'Depok'</initValue>
+      <name>Kabupaten_Kota</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
